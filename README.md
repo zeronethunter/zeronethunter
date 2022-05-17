@@ -5,7 +5,9 @@
 ## 👀 About me:
 
 - ### 🏛 I am student of Bauman Moscow State University.
+
 ###
+
 - ### <a><img height="17" src="assets/code-solid.svg" alt="code-solid"/></a> Into fullstack development.
 - ### 💻 Currently working on <a href="https://gitlab.com/no364/congitio">Cognitio</a> and <a href="https://gitlab.com/zenehu/forum_task"><img height="40" width="95" src="assets/logo.svg" alt="logo"></a>projects.
 
@@ -22,11 +24,11 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-## <a><img src="assets/portfolio.svg" width=2%></a> Contacts
+## <a><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/portfolio.svg" width=2%></a> Contacts
 
-<a href="https://github.com/zeronethunter"><img src="assets/github.svg" width=50></a>
-<a href="https://vk.com/zeronethunter"><img src="assets/vk.svg" width=50></a>
-<a href="https://discordapp.com/users/287665755967979520/"><img src="assets/discord.svg" width=50></a>
+<a href="https://github.com/zeronethunter"><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/github.svg" width=50></a>
+<a href="https://vk.com/zeronethunter"><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/vk.svg" width=50></a>
+<a href="https://discordapp.com/users/287665755967979520/"><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/discord.svg" width=50></a>
 
 
 
