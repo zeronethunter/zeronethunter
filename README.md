@@ -1,4 +1,4 @@
-# Hello, there! <img height="50" width="50" src="assets/hi.gif" alt="hi_img"/>
+# Hello, there! <img height="50" width="50" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="hi_img"/>
 
 ### My name is Albert, also known as **zenehu**
 
@@ -24,11 +24,11 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-## <a><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/portfolio.svg" width=2%></a> Contacts
+## <a><img src="https://www.svgrepo.com/show/234262/portfolio.svg" width=2%></a> Contacts
 
-<a href="https://github.com/zeronethunter"><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/github.svg" width=50></a>
-<a href="https://vk.com/zeronethunter"><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/vk.svg" width=50></a>
-<a href="https://discordapp.com/users/287665755967979520/"><img src="https://gitlab.com/zenehu/zenehu/-/blob/20eefccf39c94460dc7fee46c30899e9afb4dba9/assets/discord.svg" width=50></a>
+<a href="https://github.com/zeronethunter"><img src="https://www.svgrepo.com/show/35001/github.svg" width=50></a>
+<a href="https://vk.com/zeronethunter" width=50><img src="https://www.svgrepo.com/show/349554/vk.svg" width=50></a>
+<a href="https://discordapp.com/users/287665755967979520/"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=50></a>
 
 
 
