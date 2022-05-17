@@ -8,10 +8,10 @@
 
 ###
 
-- ### <a><img height="17" src="assets/code-solid.svg" alt="code-solid"/></a> Into fullstack development.
+- ### <a><img height="20" src="https://www.svgrepo.com/show/360290/code.svg" alt="code-solid"/></a> Into fullstack development.
 - ### 💻 Currently working on <a href="https://gitlab.com/no364/congitio">Cognitio</a> and <a href="https://gitlab.com/zenehu/forum_task"><img height="40" width="95" src="assets/logo.svg" alt="logo"></a>projects.
 
-## 🧩 Languages and Frameworks
+## 🧩 Languages and Tools
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
