@@ -9,7 +9,7 @@
 ###
 
 - ### <a><img height="20" src="https://www.svgrepo.com/show/360290/code.svg" alt="code-solid"/></a> Into fullstack development.
-- ### 💻 Currently working on <a href="https://gitlab.com/no364/congitio">Cognitio</a> and <a href="https://gitlab.com/zenehu/forum_task"><img height="40" width="95" src="assets/logo.svg" alt="logo"></a>projects.
+- ### 💻 Currently working on <a href="https://gitlab.com/no364/congitio">Cognitio</a> and <a href="https://gitlab.com/zenehu/zenum"><img height="40" width="95" src="https://gitlab.com/zenehu/zenum/-/raw/dev/static/img/logo.svg" alt="logo"></a>projects.
 
 ## 🧩 Languages and Tools
 
