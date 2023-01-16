@@ -8,11 +8,11 @@
 
 ###
 
-- ### <a><img height="20" src="https://www.svgrepo.com/show/360290/code.svg" alt="code-solid"/></a> Into fullstack development.
-- ### 💻 Currently working on <a href="https://gitlab.com/no364/congitio">Cognitio</a> and <a href="https://gitlab.com/zenehu/zenum"><img height="40" width="95" src="https://gitlab.com/zenehu/zenum/-/raw/dev/static/img/logo.svg" alt="logo"></a>projects.
+- ### <a><img height="20" src="https://www.svgrepo.com/show/360290/code.svg" alt="code-solid"/></a> Into backend development.
 
 ## 🧩 Languages and Tools
 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
