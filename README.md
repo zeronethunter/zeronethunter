@@ -1,34 +1,31 @@
-# Hello, there! <img height="50" width="50" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="hi_img"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello%2C+there!+I'm+Albert+%F0%9F%91%8B+;Software+engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%94%A7;Average+golang+enjoyer+%F0%9F%92%AA;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F&font=Jetbrains+Mono&size=22&color=E4E8EC&center=true&width=440&height=45&vCenter=true)
 
-### My name is Albert, also known as **zenehu**
+<img height="20" src="https://komarev.com/ghpvc/?username=zeronethunter&color=bd93f9&label=Views" /> <img height=20 src="https://img.shields.io/github/followers/zeronethunter?color=bd93f9&label=Followers" /> <img height="20" src="./assets/os-arch.svg"/> <img height="20" src="./assets/de.svg"/> <img height="20" src="./assets/ide.svg"/>
 
-## 👀 About me:
+## <img src="./assets/info.svg" width="20"/> About me
 
-- ### 🏛 I am student of Bauman Moscow State University.
+- ### <img src="./assets/university.svg" width="15"/> I am student of Bauman Moscow State University.
+- ### <img src="./assets/code-solid.svg" width="15"/> Into backend development.
 
-###
+## <img src="./assets/wrench-and-hammer.svg" width="20"/> Languages and Tools
+<code><img height="40" src="./assets/go.svg"></code>
+<code><img height="40" src="./assets/cpp.svg"></code>
+<code><img height="40" src="./assets/c.svg"></code>
+<code><img height="40" src="./assets/python.svg"></code>
+<code><img height="40" src="./assets/django.svg"></code>
+<code><img height="40" src="./assets/bash.svg"></code>
+<code><img height="40" src="./assets/docker-3.svg"></code>
+<code><img height="40" src="./assets/git.svg"></code>
+<code><img height="40" src="./assets/linux.svg"></code>
 
-- ### <a><img height="20" src="https://www.svgrepo.com/show/360290/code.svg" alt="code-solid"/></a> Into backend development.
+## <img src="./assets/link.svg" width="20"/> Contact me
+<a href="https://t.me/zeronethunter"><img src="./assets/telegram.svg" height=40></a>
+<a href="https://vk.com/zeronethunter"><img src="./assets/vk.svg" height=40></a>
+<a href="https://github.com/zeronethunter"><img src="./assets/github.svg" height=40></a>
+<a href="https://discordapp.com/users/287665755967979520/"><img src="./assets/discord.svg" height=40></a>
 
-## 🧩 Languages and Tools
+## <img src="./assets/statistics.svg" width="20"/> Statistics
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeronethunter&show_icons=true&theme=dracula&hide_title=true&ring_color=bd93f9)
 
-## <a><img src="https://www.svgrepo.com/show/234262/portfolio.svg" width=2%></a> Contacts
-
-<a href="https://github.com/zeronethunter"><img src="https://www.svgrepo.com/show/35001/github.svg" width=50></a>
-<a href="https://vk.com/zeronethunter" width=50><img src="https://www.svgrepo.com/show/349554/vk.svg" width=50></a>
-<a href="https://discordapp.com/users/287665755967979520/"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=50></a>
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronethunter&hide=julia,html&layout=compact&theme=dracula&title_color=bd93f9&card_width=467)
